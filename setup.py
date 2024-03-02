@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name = 'project',
+    name = 'Student Performance Indicator',
     version='0.0.1',
     author = 'Harshit',
     author_email='harshitkr3002@gmail.com',

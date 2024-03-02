@@ -1,7 +1,5 @@
 import os
-import sys  
-sys.path.insert(0, '../src')
-import unittest
+import sys
 from src.exception import CustomException
 from src.logger import logging
 import pandas as pd
